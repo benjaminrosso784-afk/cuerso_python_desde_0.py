@@ -1,5 +1,5 @@
-numero = 0
-while numero > 0:
+numero = 10
+while numero > 6:
     print(numero)
     numero = numero - 1
 print("fin")
